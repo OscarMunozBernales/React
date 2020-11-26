@@ -1,2 +1,2 @@
-# ECMAScript6
-Curso de ECMAScript +6
+# REACT
+Curso de react.
